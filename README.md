@@ -1,12 +1,14 @@
 # MLEDS-Maximum-Likelihood-Equal-Differences-Sorting-
-This is MATLAB code.
+
+
 A Psychophysical assessment method for Perceptual Discriminability
 
 
-File description
+File description（MATLAB code）
 # 1.The path assessment_code is the source code of the sorting evaluation method
 Input data file: 0030.csv
-notice:the format of the input data
+
+Notice:the format of the input data
 
 
 # 2.The path stimulus_code is the paper simulation code and simulation paix data
